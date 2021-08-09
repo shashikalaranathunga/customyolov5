@@ -1,0 +1,5 @@
+
+val: 'D:/working_directory_shashi/Semantic-Segmentation-Mask-to-Bounding-Box-main/valid_dataset2/images/val'
+
+nc: 1
+names: ['0']

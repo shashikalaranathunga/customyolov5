@@ -1,0 +1,6 @@
+train: 'D:/working_directory_shashi/yolo_new/yolov5/datasets/yolo_dataset3/images/train'
+val: 'D:/working_directory_shashi/yolo_new/yolov5/datasets/yolo_dataset3/images/val'
+test: 'D:/working_directory_shashi/yolo_new/yolov5/datasets/yolo_dataset3/images/test'
+
+nc: 1
+names: ['Diffective']

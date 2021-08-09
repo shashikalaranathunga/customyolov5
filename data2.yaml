@@ -1,0 +1,5 @@
+train: 'D:/datset/New folder (5)/Surface-Defect-Detection-master/YOLO_magnetic/train/images'
+val: 'D:/datset/New folder (5)/Surface-Defect-Detection-master/YOLO_magnetic/valid/images'
+
+nc: 1
+names: ['0']

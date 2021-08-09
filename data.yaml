@@ -1,0 +1,5 @@
+train: 'D:/working_directory_shashi/Semantic-Segmentation-Mask-to-Bounding-Box-main/yolo_dataset/images/train'
+val: 'D:/working_directory_shashi/Semantic-Segmentation-Mask-to-Bounding-Box-main/yolo_dataset/images/val'
+test: 'D:/working_directory_shashi/Semantic-Segmentation-Mask-to-Bounding-Box-main/yolo_dataset/images/test'
+nc: 1
+names: ['0']
